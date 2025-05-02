@@ -37,7 +37,7 @@
 - **Contract Address:** [`0x9248f99E91f405Ddd30821D9b7fa55b64f3Fa993`](https://basescan.org/address/0x9248f99E91f405Ddd30821D9b7fa55b64f3Fa993#code)  
 - **Verified On:**
   - [BaseScan](https://basescan.org/address/0x9248f99E91f405Ddd30821D9b7fa55b64f3Fa993#code)  
-  - [DexTools](https://www.dextools.io/app/en/base/token/0x9248f99E91f405Ddd30821D9b7fa55b64f3Fa993)
+  - [DexTools](https://www.dextools.io/app/ru/token/marstokenbase?t=1746204360743)
 - **Source Code:** [`contracts/MarsToken.sol`](./contracts/MarsToken.sol)  
 - **Contract Info (Markdown):** [`contracts/Contract-Details.md`](./contracts/Contract-Details.md)  
 - **Contract Info (PDF):** [`contracts/Contract-Details-MarsToken.pdf`](./contracts/Contract-Details-MarsToken.pdf)  
@@ -46,10 +46,10 @@
 
 ## How to Buy MTN
 
-1. Go to [Uniswap on Base](https://basescan.org/address/0x60da00747a244277026f3e673933ca0254d0ae41)  
-2. Connect your wallet (e.g. MetaMask or Coinbase Wallet)  
-3. Paste the MTN token contract address  
-4. Swap ETH for MTN  
+1. Перейдите на [Uniswap (Base)](https://app.uniswap.org/#/swap?outputCurrency=0x9248f99e91f405ddd30821d9b7fa55b64f3fa993&chain=base)  
+2. Подключите свой кошелёк (например, MetaMask или Coinbase Wallet)  
+3. Вставьте адрес контракта MTN: `0x9248f99e91f405ddd30821d9b7fa55b64f3fa993`  
+4. Обменяйте ETH на MTN
 
 ---
 
@@ -64,17 +64,17 @@
 
 ## Listings and Trackers
 
-- [DexTools](https://www.dextools.io/app/en/base/token/0x9248f99E91f405Ddd30821D9b7fa55b64f3Fa993)  
-- [GeckoTerminal](https://www.geckoterminal.com/ru/base/pools/0x60da00747a244277026f3e673933ca0254d0ae41)  
+- [DexTools](https://www.dextools.io/app/ru/token/marstokenbase?t=1746204360743)  
+- [GeckoTerminal](https://www.geckoterminal.com/base/pools/0x60da00747a244277026f3e673933ca0254d0ae41)  
 - [DexView](https://www.dexview.com/base/0x9248f99E91f405Ddd30821D9b7fa55b64f3Fa993)  
-- See more in [`/listings`](./listings)
+- Дополнительные ссылки доступны в папке [`/listings`](./listings)
 
 ---
 
 ## WhitePaper
 
 - [Read Online](https://mars-token.weebly.com/whitepaper.html)  
-- See full text in [`/whitepaper`](./whitepaper)
+- See full version in [`/whitepaper`](./whitepaper)
 
 ---
 
