@@ -160,7 +160,7 @@ All users are encouraged to conduct their own research (DYOR) before any engagem
 - [DexTools Chart](https://www.dextools.io/app/ru/token/marstokenbase?t=1745973216134)  
 - [GeckoTerminal](https://www.geckoterminal.com/ru/base/pools/0x60da00747a244277026f3e673933ca0254d0ae41)  
 - [DexView](https://www.dexview.com/base/0x9248f99E91f405Ddd30821D9b7fa55b64f3Fa993)  
-- GitHub: *(will be added after launch)*
+- [GitHub Repository](https://github.com/marstoken2025/mars-token)
 
 ---
 
@@ -184,7 +184,25 @@ All users are encouraged to conduct their own research (DYOR) before any engagem
 
 - Official Email: [mars.token.base@gmail.com](mailto:mars.token.base@gmail.com)
 
-##---
+---
 
-For the official visual version of this WhitePaper, please visit:  
+## 10.4 GitHub Repository
+
+All technical documentation, including:
+
+- The verified smart contract
+- Project WhitePaper source
+- Audit and security folder
+- Token listing records
+- Social media and branding files
+
+...is hosted in our official GitHub repository:
+
+[https://github.com/marstoken2025/mars-token](https://github.com/marstoken2025/mars-token)
+
+This repository is regularly updated and serves as the technical backbone of the Mars Token project.
+
+---
+
+You can also read this WhitePaper on our official website:  
 [https://mars-token.weebly.com/whitepaper.html](https://mars-token.weebly.com/whitepaper.html)
