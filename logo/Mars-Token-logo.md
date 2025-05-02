@@ -14,6 +14,7 @@ This folder contains the official Mars Token (MTN) logo files in different sizes
 
 - [Mars Token Logo — 256x256 PNG](https://github.com/marstoken2025/mars-token/raw/main/logo/Mars-Token-256.png)
 - [Mars Token Logo — 512x512 PNG](https://github.com/marstoken2025/mars-token/raw/main/logo/Mars-Token-512.png)
+- [Mars Token Logo – 200x200 PNG](https://github.com/marstoken2025/mars-token/raw/main/logo/Mars-Token-200.png)
 
 ---
 
