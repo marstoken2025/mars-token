@@ -46,10 +46,10 @@
 
 ## How to Buy MTN
 
-1. Перейдите на [Uniswap (Base)](https://app.uniswap.org/#/swap?outputCurrency=0x9248f99e91f405ddd30821d9b7fa55b64f3fa993&chain=base)  
-2. Подключите свой кошелёк (например, MetaMask или Coinbase Wallet)  
-3. Вставьте адрес контракта MTN: `0x9248f99e91f405ddd30821d9b7fa55b64f3fa993`  
-4. Обменяйте ETH на MTN
+1. Go to [Uniswap (Base)](https://app.uniswap.org/#/swap?outputCurrency=0x9248f99e91f405ddd30821d9b7fa55b64f3fa993&chain=base)  
+2. Connect your wallet (e.g., MetaMask or Coinbase Wallet)  
+3. Paste the MTN contract address: `0x9248f99e91f405ddd30821d9b7fa55b64f3fa993`  
+4. Swap ETH for MTN
 
 ---
 
@@ -67,14 +67,14 @@
 - [DexTools](https://www.dextools.io/app/ru/token/marstokenbase?t=1746204360743)  
 - [GeckoTerminal](https://www.geckoterminal.com/base/pools/0x60da00747a244277026f3e673933ca0254d0ae41)  
 - [DexView](https://www.dexview.com/base/0x9248f99E91f405Ddd30821D9b7fa55b64f3Fa993)  
-- Дополнительные ссылки доступны в папке [`/listings`](./listings)
+- Full list available in [`/listings`](./listings)
 
 ---
 
 ## WhitePaper
 
 - [Read Online](https://mars-token.weebly.com/whitepaper.html)  
-- See full version in [`/whitepaper`](./whitepaper)
+- Full text available in [`/whitepaper`](./whitepaper)
 
 ---
 
