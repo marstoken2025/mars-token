@@ -66,7 +66,8 @@
 
 - [DexTools](https://www.dextools.io/app/ru/token/marstokenbase?t=1746204360743)  
 - [GeckoTerminal](https://www.geckoterminal.com/base/pools/0x60da00747a244277026f3e673933ca0254d0ae41)  
-- [DexView](https://www.dexview.com/base/0x9248f99E91f405Ddd30821D9b7fa55b64f3Fa993)  
+- [DexView](https://www.dexview.com/base/0x9248f99E91f405Ddd30821D9b7fa55b64f3Fa993)
+- [CoinPaprika](https://coinpaprika.com/coin/mtn-mars-token/) 
 - Full list available in [`/listings`](./listings)
 
 ---
