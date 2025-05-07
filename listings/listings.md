@@ -16,6 +16,7 @@ This document contains all platforms where Mars Token (MTN) is listed, submitted
 
 ## 🌐 Coin Listing Platforms
 
+- [CoinPaprika](https://coinpaprika.com/coin/mtn-mars-token/)
 - [CoinSniper](https://coinsniper.net/coin/80770)  
 - [CoinHunt](https://coinhunt.cc/coin/67fffeeb912d68bed488c732)  
 - [CoinScope](https://www.coinscope.co/coin/2-mtn)  
