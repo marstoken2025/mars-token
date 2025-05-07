@@ -159,13 +159,15 @@ All users are encouraged to conduct their own research (DYOR) before any engagem
 - [BaseScan (Contract)](https://basescan.org/token/0x9248f99E91f405Ddd30821D9b7fa55b64f3Fa993)  
 - [DexTools Chart](https://www.dextools.io/app/ru/token/marstokenbase?t=1745973216134)  
 - [GeckoTerminal](https://www.geckoterminal.com/ru/base/pools/0x60da00747a244277026f3e673933ca0254d0ae41)  
-- [DexView](https://www.dexview.com/base/0x9248f99E91f405Ddd30821D9b7fa55b64f3Fa993)  
+- [DexView](https://www.dexview.com/base/0x9248f99E91f405Ddd30821D9b7fa55b64f3Fa993)
+- [DexPaprika](https://dexpaprika.com/base/token/0x9248f99e91f405ddd30821d9b7fa55b64f3fa993)
 - [GitHub Repository](https://github.com/marstoken2025/mars-token)
 
 ---
 
 ## 10.2 Extended Listings & Trackers
 
+- [CoinPaprika](https://coinpaprika.com/coin/mtn-mars-token/)
 - [CoinSniper](https://coinsniper.net/coin/80770)  
 - [CoinHunt](https://coinhunt.cc/coin/67fffeeb912d68bed488c732)  
 - [CoinScope](https://www.coinscope.co/coin/2-mtn)  
